@@ -1,0 +1,11 @@
+c:\users\mastarman\documents\visual studio 2017\Youtube\GRID\GRID\bin\Debug\GRID.exe.config
+c:\users\mastarman\documents\visual studio 2017\Youtube\GRID\GRID\bin\Debug\GRID.exe
+c:\users\mastarman\documents\visual studio 2017\Youtube\GRID\GRID\bin\Debug\GRID.pdb
+c:\users\mastarman\documents\visual studio 2017\Youtube\GRID\GRID\bin\Debug\GRID.xml
+c:\users\mastarman\documents\visual studio 2017\Youtube\GRID\GRID\obj\Debug\GRID.Form1.resources
+c:\users\mastarman\documents\visual studio 2017\Youtube\GRID\GRID\obj\Debug\GRID.Resources.resources
+c:\users\mastarman\documents\visual studio 2017\Youtube\GRID\GRID\obj\Debug\GRID.vbproj.GenerateResource.Cache
+c:\users\mastarman\documents\visual studio 2017\Youtube\GRID\GRID\obj\Debug\GRID.exe
+c:\users\mastarman\documents\visual studio 2017\Youtube\GRID\GRID\obj\Debug\GRID.xml
+c:\users\mastarman\documents\visual studio 2017\Youtube\GRID\GRID\obj\Debug\GRID.pdb
+c:\users\mastarman\documents\visual studio 2017\Youtube\GRID\GRID\obj\Debug\GRID.vbprojResolveAssemblyReference.cache
